@@ -1,0 +1,4 @@
+1d. The control points originally follows the formula 
+c[i] = p[i] + (P[i+1]-p[i-1])*1/6; 
+if I change the control 1/6 to be 1/3, then the curve will become flat
+lines between two points will become more straight. 

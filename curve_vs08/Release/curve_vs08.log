@@ -1,0 +1,36 @@
+﻿Build started 2011/10/13 23:29:51.
+     1>Project "F:\Framework For Students Who Don't Want to Install QT SDK\curve_vs08\curve_vs08.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\curve_vs08.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I.\GeneratedFiles\Release /I..\QT\include\QtGui /I..\QT\include\QtCore /I..\QT\include\qtmain /I..\QT\include /I.\ /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_DLL /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt spline.cpp
+         spline.cpp
+         All outputs are up-to-date.
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Framework For Students Who Don't Want to Install QT SDK\Release\curve_vs08.exe" /NOLOGO /LIBPATH:..\QT\lib qtmain.lib QtCore4.lib QtGui4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\curve_vs08.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"F:\Framework For Students Who Don't Want to Install QT SDK\Release\curve_vs08.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Framework For Students Who Don't Want to Install QT SDK\Release\curve_vs08.lib" /MACHINE:X86 Release\aboutdialog.obj
+         Release\edge.obj
+         Release\graphicsscene.obj
+         Release\graphwidget.obj
+         Release\main.obj
+         Release\mainwindow.obj
+         Release\node.obj
+         Release\spline.obj
+         Release\svzalgebra.obj
+         Release\qrc_Resource.obj
+         Release\moc_aboutdialog.obj
+         Release\moc_graphicsscene.obj
+         Release\moc_graphwidget.obj
+         Release\moc_mainwindow.obj
+         curve_vs08.vcxproj -> F:\Framework For Students Who Don't Want to Install QT SDK\Release\curve_vs08.exe
+       Manifest:
+         D:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\Framework For Students Who Don't Want to Install QT SDK\Release\curve_vs08.exe;#1" /manifest Release\curve_vs08.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\curve_vs08.unsuccessfulbuild".
+         Touching "Release\curve_vs08.lastbuildstate".
+     1>Done Building Project "F:\Framework For Students Who Don't Want to Install QT SDK\curve_vs08\curve_vs08.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.77
